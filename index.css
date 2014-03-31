@@ -1,0 +1,29 @@
+body
+{
+	color: red;
+}
+
+a:link
+{
+	color: #009900;
+}
+
+a:visited
+{
+	color: #333333;
+}
+
+a:hover
+{
+	color: #999999;
+}
+
+a:focus
+{
+	color: red;
+}
+
+a:active
+{
+	color: #009900;
+}
